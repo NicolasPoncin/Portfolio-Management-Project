@@ -1,7 +1,7 @@
 # Portfolio Management personal project
 # Macro-Systematic Approach to Multi-Asset Investing
 
-## Project Purpose
+## Purpose
 
 This project serves as a practical laboratory for applying statistical and portfolio-management methods while developing quantitative finance skills through hands-on work. It focuses on a multi-asset approach, reflecting my long-term interest in this area, and was developed within Alpha Capital Jr., a quant finance club I founded to bring finance students together, develop projects, and exchange different perspectives.
 
@@ -20,4 +20,11 @@ This repository contains the main materials related to my portfolio management p
 - `V1_appendix_risk.ipynb`: risk analysis of individual assets and cross-asset relationships, used to identify and publish risk profiles.
 - `V1_condensed`: condensed version of the main model, including macro framework, allocation choices, portfolio construction, and historical backtest.
 - `V1_documentation.pdf`: documentation of the methods and key findings of version 1.
+
+### **Status: Prototype — not yet investable**
+- Completed: macro regime framework, asset-allocation signals, and historical backtest.
+- Result: performance close to SPY with a significantly lower maximum drawdown before costs.
+- Limitation: binary 100% switches create high turnover and transaction costs eliminate the outperformance.
+- Next step: develop a more robust allocation and backtest framework.
+
 
