@@ -13,7 +13,7 @@ The goal is to build a framework that interprets economic conditions, extracts s
 
 This repository contains the main materials related to my portfolio management project. The core ideas, methodology, and results are documented across separate files, so this README only gives a brief map of the repository.
 
-## Repository Content
+Repository Content:
 
 - `project_pitch_slide.pdf`: initial project pitch presented in a few slides before any coding or integration work.
 - `Linkedin posts/`: archive of the material that was published on LinkedIn.
