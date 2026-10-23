@@ -1,6 +1,15 @@
 # Portfolio Management personal project
+# Macro-Systematic Approach to Multi-Asset Investing
 
-## Overview
+## Project Purpose
+
+This project serves as a practical laboratory for applying statistical and portfolio-management methods while developing quantitative finance skills through hands-on work. It focuses on a multi-asset approach, reflecting my long-term interest in this area, and was developed within Alpha Capital Jr., a quant finance club I founded to bring finance students together, develop projects, and exchange different perspectives.
+
+## Project Objective
+
+The goal is to build a framework that interprets economic conditions, extracts signals from economic, monetary and financial variables, and uses these signals to guide multi-asset portfolio allocation and management.
+
+## Repository Overview
 
 This repository contains the main materials related to my portfolio management project. The core ideas, methodology, and results are documented across separate files, so this README only gives a brief map of the repository.
 
