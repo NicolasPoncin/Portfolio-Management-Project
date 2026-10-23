@@ -27,4 +27,11 @@ Repository Content:
 - Limitation: binary 100% switches create high turnover and transaction costs eliminate the outperformance.
 - Next step: develop a more robust allocation and backtest framework.
 
+## About author
+
+**Nicolas Poncin**  
+- 💼 [Linkedin](https://www.linkedin.com/in/nicolas-poncin-63918b201/?isSelfProfile=true) 
+- 📄 [CV](https://whispering-cricket-3c5.notion.site/Nicolas-Poncin-CV-1979bd8bfc318006a04ef40ed5bde371?source=copy_link)
+- 🔗 [Socials](https://whispering-cricket-3c5.notion.site/Link-in-Bio-1979bd8bfc31804d8d2fd633cb1a891c?source=copy_link)
+
 
