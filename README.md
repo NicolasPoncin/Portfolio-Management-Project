@@ -22,8 +22,8 @@ Repository Content:
 - `V1_documentation.pdf`: documentation of the methods and key findings of version 1.
 
 ### **Status: Prototype — not yet investable**
-- Completed: macro regime framework, asset-allocation signals, and historical backtest.
-- Result: performance close to SPY with a significantly lower maximum drawdown before costs.
+- Completed: macro regime framework, asset-allocation signals, and backtest.
+- Result: OOS performance close to SPY, but still not improving. Significantly lower maximum drawdown before costs on full sample historical data.
 - Limitation: binary 100% switches create high turnover and transaction costs eliminate the outperformance.
 - Next step: develop a more robust allocation and backtest framework.
 
